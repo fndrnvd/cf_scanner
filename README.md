@@ -1,4 +1,4 @@
-python scanner.py --top 15 --count 1000 --prefer-ipv6 --no-speed-test --output best_ips.txt --verbose
+python scanner.py --top 15 --count 1000 --no-speed-test --output Top_15_Ips.txt --verbose
 
 Switches:
 
