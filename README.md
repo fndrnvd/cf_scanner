@@ -1,4 +1,4 @@
-python scanner.py --top 15 --count 1000 --no-speed-test --output Top_15_Ips.txt
+python run.py --top 15 --count 1000 --no-speed-test --output Top_15_Ips.txt
 
 Switches:
 
